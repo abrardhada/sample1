@@ -1,4 +1,9 @@
 Loren impsum random data
 second time appending
 third time appending
+<<<<<<< HEAD
 br1 data
+=======
+br2 data
+
+>>>>>>> br2
